@@ -1,0 +1,6 @@
+name: ProjectShiko
+version: '1'
+main: projectshiko.projectshiko.ProjectShiko
+api-version: 1.19
+authors: [ Lowe, Max ]
+website: https://www.twitch.tv/itsm2xi_
